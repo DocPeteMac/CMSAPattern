@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "CMSAPattern",
+    "slug": "CMSAPattern",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "android": {
+      "package": "com.peterfischer.cmsapattern",
+      "versionCode": 4
+    },
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.6",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#141318"
+    },
+    "updates": {
+      "enabled": true,
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.peterfischer.cmsapattern"
+    },
+    "description": "This App is an educational App for a beginner in the sport of mounted shooting as well as a reference for advanced shooter to look up some pattern. It contains the entire pattern and description regarding the CMSA rulebook 2019-2020. All pattern are displayed in a 3-dimensional view for a better understanding of the pattern compared to black and white dots on plain paper. Another view is showing a path how to run the pattern. The path, how to run is a suggestion and is the simplest and most efficient way for a beginner. It doesn't contain any variation for now. Variations on how to run a certain pattern will be implemented in the future. On the screen how to shoot the pattern shown in a simple animation whether you engage the targets straight or cross from your horse. The bird's eye view is a different view for a better understanding of the particular pattern. The rang master view is showing the pattern similar to the rulebook on plain paper with documented distances as a 'pocket reference' to set up pattern correctly. Last but not least there is one view called >speed<, to show the beginner after he/she advances how to improve the times, where he/she can improve the speed while engaging the course - as a suggestion."
+  }
+}
